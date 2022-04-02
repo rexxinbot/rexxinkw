@@ -1,0 +1,23 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": false,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6281317549796",
+	"ownerNumberr": "6281317549796",
+	"cr": "Rexxin",
+	"ownername": "Rexxin",
+	"botname":"RexxinBot",
+	"thumb":"rexn.jpg",
+	"thumbnail":"rexx.jpg",
+	"fakethumb":"rexn.jpg", 
+	"donasi":"donasi.jpg",
+	"captionpay":"Silahkan Ketik .dana / .gopay",
+	"fake": " 「  REXXINBOT  」\nCreated By Rexxin"
+}
